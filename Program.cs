@@ -4,7 +4,7 @@ namespace Sinqia_Projeto_Modulo01
 {
     class Program
     {
-        //blablabla
+        
         static void Main(string[] args)
         {
             //const string MensagemSistema = "Bem vindo a simples calculadora";
